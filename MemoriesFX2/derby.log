@@ -1,0 +1,26 @@
+----------------------------------------------------------------
+Fri Jan 17 16:55:09 WET 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0194-7530-a184-0000079df0d0 
+on database directory /Users/manuelbarral/Documents/Uni/CSS03/projetoJFXPessoal /memoriesfx/MemoriesFX2/data/derby/JPAMemories with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@6f496d9f 
+Loaded from file:/Users/manuelbarral/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Homebrew
+java.runtime.version=23.0.1
+user.dir=/Users/manuelbarral/Documents/Uni/CSS03/projetoJFXPessoal /memoriesfx/MemoriesFX2
+os.name=Mac OS X
+os.arch=aarch64
+os.version=15.1.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Jan 17 16:55:09 WET 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance 286cc01e-0194-7530-a184-0000079df0d0 
+on database directory /Users/manuelbarral/Documents/Uni/CSS03/projetoJFXPessoal /memoriesfx/MemoriesFX2/data/derby/JPAMemoriesTest with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@6f496d9f 
+Loaded from file:/Users/manuelbarral/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Homebrew
+java.runtime.version=23.0.1
+user.dir=/Users/manuelbarral/Documents/Uni/CSS03/projetoJFXPessoal /memoriesfx/MemoriesFX2
+os.name=Mac OS X
+os.arch=aarch64
+os.version=15.1.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

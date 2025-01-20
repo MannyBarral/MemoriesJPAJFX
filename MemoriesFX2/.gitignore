@@ -1,0 +1,12 @@
+/target/
+*.jpg
+*.jpeg
+*.JPEG
+*.JPG
+*.pdf
+/fotos-2
+/fotosManaged
+/data/
+/derby/
+
+
